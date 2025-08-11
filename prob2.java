@@ -1,0 +1,6 @@
+import java.util.*;
+public class prob2{
+  public static void main(String args[]){
+    
+  } 
+}
